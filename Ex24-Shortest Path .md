@@ -21,8 +21,8 @@ The number of reachable attractions from the same starting point using Breadth-F
 ```
 /*
 Program to determine Shortest Path and Reachability in a Heritage Town using BFS
-Developed by: BALAJI KAMARAJ
-RegisterNumber: 212224040043
+Developed by: BALAJI J
+RegisterNumber: 212224040042
 */
 
 import java.util.*;
